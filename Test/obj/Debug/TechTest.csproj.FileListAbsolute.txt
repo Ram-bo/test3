@@ -1,0 +1,11 @@
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\obj\Debug\TechTest.csproj.CoreCompileInputs.cache
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\bin\Debug\Interview.dll
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\bin\Debug\Interview.pdb
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\bin\Debug\nunit.framework.dll
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\bin\Debug\nunit.framework.xml
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\obj\Debug\TechTest.csproj.CopyComplete
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\obj\Debug\Interview.dll
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\obj\Debug\Interview.pdb
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\bin\Debug\nunit.framework.pdb
+C:\Users\aksha\OneDrive\Desktop\Test\Techtest\obj\Debug\TechTest.csprojAssemblyReference.cache
